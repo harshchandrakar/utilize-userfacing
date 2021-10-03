@@ -2,7 +2,7 @@ import React from "react";
 import Logout from "../Signin/Logout";
 import "./UserDetails.css";
 function UserDetails(props) {
-  const profile = props.profile;
+  // const profile = props.profile;
 
   return (
     <div className="user-detail">
