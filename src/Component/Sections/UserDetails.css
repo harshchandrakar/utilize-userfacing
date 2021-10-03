@@ -1,0 +1,28 @@
+.user-detail {
+  border-radius: 20px;
+  background-color: #3b3635;
+  display: block;
+  margin-left: 16px;
+  margin-bottom: 20px;
+  padding: 1em;
+  width: 300px;
+  height: 500px;
+}
+.img {
+  text-align: center;
+}
+.img img {
+  height: 200px;
+  border-radius: 100%;
+}
+.details {
+  margin: 50px;
+  color: #eaa598;
+  text-align: left;
+}
+.details span {
+  text-decoration: underline;
+}
+.details h3 {
+  word-wrap: break-word;
+}

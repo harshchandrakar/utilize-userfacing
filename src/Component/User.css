@@ -1,0 +1,10 @@
+.udetail {
+  display: flex;
+
+  align-items: baseline;
+}
+@media screen and (max-width: 600px) {
+  .udetail {
+    flex-direction: column;
+  }
+}
