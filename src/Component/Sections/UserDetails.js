@@ -7,7 +7,7 @@ function UserDetails(props) {
   return (
     <div className="user-detail">
       <div className="img">
-        <img src={profile.imageUrl} alt="Profile" />
+        <img src="" alt="Profile" />
       </div>
       <div className="details">
         <h3>
