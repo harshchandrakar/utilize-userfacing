@@ -11,10 +11,10 @@ function UserDetails(props) {
       </div>
       <div className="details">
         <h3>
-          <span>Username: </span> {profile.name}
+          <span>Username: </span>
         </h3>
         <h3>
-          <span>Email:</span> {profile.email}
+          <span>Email:</span>
         </h3>
         <br />
         <Logout auth={props.auth} />
