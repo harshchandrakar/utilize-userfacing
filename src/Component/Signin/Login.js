@@ -4,7 +4,7 @@ import { GoogleLogin } from "react-google-login";
 import "./Login.css";
 
 const clientId =
-  "446643779778-7bnj4cu1j6kek62q68nc4g2u41r6r32p.apps.googleusercontent.com";
+  "446643779778-ij8q4u3hp6rr4h4b86j809trnheqboj0.apps.googleusercontent.com";
 
 function Login(props) {
   const onSuccess = (res) => {
